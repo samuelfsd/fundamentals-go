@@ -10,6 +10,7 @@ Structuring my study routine for this powerful language
 - [x] understanding imports
 - [x] working with Arrays and Slices
 - [x] working with a hashtable representation -> Map
+- [x] working with functions -> types of return | Closures | many undefined parameters
 
 # Fundamentos da linguagem go
 
@@ -23,3 +24,4 @@ Estruturando minha rotina de estudos dessa linguagem poderosa
 - [x] entendendo sobre importações
 - [x] trabalhandon com Arrays e Slices
 - [x] trabalhando com uma representação de hashtables -> Map
+- [x] trabalhando com funções -> tipos de retorno | funções anônimas | paramêtros indefinidos
