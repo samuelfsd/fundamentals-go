@@ -19,6 +19,12 @@ type Client struct {
 	Address
 }
 
+// vinculando um método a uma struct
+func (c Client) logout() {
+	c.isActive = false
+	fmt.Printf("O Cliente %s foi desligado", c.name)
+}
+
 func main() {
 
 	marlon := Client{
@@ -33,6 +39,9 @@ func main() {
 	fmt.Printf("Nome ->  %s \nIdade -> %d \nÉ ativo -> %t \n", marlon.name, marlon.age, marlon.isActive)
 
 	marlon.city = "Paulista PB"
+	marlon.logout()
 
 	fmt.Println(marlon.city)
+
+	fmt.Println(marlon)
 }
