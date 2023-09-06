@@ -25,4 +25,6 @@ Estruturando minha rotina de estudos dessa linguagem poderosa
 - [x] trabalhandon com Arrays e Slices
 - [x] trabalhando com uma representação de hashtables -> Map
 - [x] trabalhando com funções -> tipos de retorno | funções anônimas | paramêtros indefinidos
-- [x] entendendo o conceito de struct 
+- [x] entendendo o conceito de struct
+- [] entendendo interfaces
+- [] trabalhando com ponteiros 
