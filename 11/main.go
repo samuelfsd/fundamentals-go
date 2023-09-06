@@ -25,6 +25,21 @@ func (c Client) logout() {
 	fmt.Printf("O Cliente %s foi desligado", c.name)
 }
 
+// entendendo o conceito de interface 
+type People interface {
+	Hello() string
+}
+
+func (c Client) Hello() string {
+	hello := "hello"
+
+	return hello
+}
+
+func Fala(c Client) {
+	c.Hello()
+}
+
 func main() {
 
 	marlon := Client{
