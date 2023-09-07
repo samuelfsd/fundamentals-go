@@ -11,6 +11,11 @@ Structuring my study routine for this powerful language
 - [x] working with Arrays and Slices
 - [x] working with a hashtable representation -> Map
 - [x] working with functions -> types of return | Closures | many undefined parameters
+- [x] understanding the concept of struct
+- [x] understanding interfaces
+- [x] working with pointers
+- [x] working with structs and pointers
+- [x] type assertion
 
 # Fundamentos da linguagem go
 
@@ -26,5 +31,7 @@ Estruturando minha rotina de estudos dessa linguagem poderosa
 - [x] trabalhando com uma representação de hashtables -> Map
 - [x] trabalhando com funções -> tipos de retorno | funções anônimas | paramêtros indefinidos
 - [x] entendendo o conceito de struct
-- [] entendendo interfaces
-- [] trabalhando com ponteiros 
+- [x] entendendo interfaces
+- [x] trabalhando com ponteiros
+- [x] trabalhando com structs e ponteiros
+- [x] type assertion
