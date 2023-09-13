@@ -17,6 +17,8 @@ Structuring my study routine for this powerful language
 - [x] working with structs and pointers
 - [x] type assertion
 - [] generics
+- [] packages
+
 # Fundamentos da linguagem go
 
 Estruturando minha rotina de estudos dessa linguagem poderosa
@@ -36,3 +38,4 @@ Estruturando minha rotina de estudos dessa linguagem poderosa
 - [x] trabalhando com structs e ponteiros
 - [x] type assertion
 - [] generics
+- [] pacotes
