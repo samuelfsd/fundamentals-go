@@ -16,4 +16,6 @@ No go a estrutura de arrays é fixa e não podendo modificar o seu tamanho mas s
 
 ### Slice
 
-...
+O Slice no go é bem semelhante ao array porém com o seu tamanho podendo ser relativo, quando você aumenta o tamanho do seu slice o go por baixo dos panos procura outro valor em memória que tenha maior capacidade para suprir a demanda que você precisa (a capacidade pode aumentar bastante caso você necessite de um tamanho muito maior, tornando isso um processo custoso para o go).
+
+Dica: Tente sempre inicializar um slice com um valor próximo ao que você deseja armazenar para não ter grandes custos em memória (assim evitando o go procurar algum outro array maior em memória para satisfazer sua condição de espaço).
